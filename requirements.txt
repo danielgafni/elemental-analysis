@@ -1,0 +1,4 @@
+pandas == 1.2.0
+plotly == 4.14.3
+jupyter == 1.0.0
+kaleido == 0.1.0
